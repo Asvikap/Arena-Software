@@ -1,0 +1,33 @@
+[RESOURCES]
+Mixing Powder
+Filling Machine
+Packaging machine
+Mixing Creamer 1
+Carton Machine
+[VARIABLES]
+Transport International.NumberOut
+Mixer 1.NumberOut
+Filling 2.NumberOut
+Carton Sealer 1.NumberOut
+Carton Sealer 2.NumberOut
+Transport Local.NumberOut
+Mixer 1.NumberIn
+Mixer 2.NumberIn
+Filling 1.NumberOut
+Filling 1.NumberIn
+Raw Material Creamer 2.NumberOut
+Raw Material Creamer 1.NumberOut
+Mixer 2.NumberOut
+Rework Powder.NumberOut
+Packaging Machine 1.NumberOut
+Raw Material Sugar.NumberOut
+Packaging Machine 1.NumberIn
+Packaging Machine 2.NumberIn
+Packaging Machine 2.NumberOut
+Raw Material Coffee.NumberOut
+Carton Rework.NumberOut
+Carton Sealer 1.NumberIn
+Carton Sealer 2.NumberIn
+Variable 1
+Raw Material Coffee 2.NumberOut
+Filling 2.NumberIn

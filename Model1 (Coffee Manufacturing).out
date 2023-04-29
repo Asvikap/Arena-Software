@@ -1,0 +1,120 @@
+
+                                      ARENA Simulation Results
+                                asvika39@gmail.com - License: STUDENT
+
+                                  Summary for Replication 1 of 1
+
+Project: Unnamed Project                                             Run execution date : 3/27/2023
+Analyst: asvika39@gmail.com                                          Model revision date: 3/27/2023
+
+Replication ended at time      : 83.736883 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Entity 1.VATime                             11.981     (Insuf)    10.243     13.720          2    
+Entity 1.NVATime                            .00000     (Insuf)    .00000     .00000          2    
+Entity 1.WaitTime                           11.735     (Insuf)    .00000     23.471          2    
+Entity 1.TranTime                           .00000     (Insuf)    .00000     .00000          2    
+Entity 1.OtherTime                          .00000     (Insuf)    .00000     .00000          2    
+Entity 1.TotalTime                          23.717     (Insuf)    13.720     33.714          2    
+Entity 2.VATime                             6.6231     (Insuf)    .03671     13.154          4    
+Entity 2.NVATime                            .00000     (Insuf)    .00000     .00000          4    
+Entity 2.WaitTime                           20.501     (Insuf)    .09517     50.531          4    
+Entity 2.TranTime                           .00000     (Insuf)    .00000     .00000          4    
+Entity 2.OtherTime                          .00000     (Insuf)    .00000     .00000          4    
+Entity 2.TotalTime                          27.124     (Insuf)    .13188     63.686          4    
+Entity 3.VATime                             6.9173     (Insuf)    .05207     10.356          3    
+Entity 3.NVATime                            .00000     (Insuf)    .00000     .00000          3    
+Entity 3.WaitTime                           19.147     (Insuf)    .71982     43.360          3    
+Entity 3.TranTime                           .00000     (Insuf)    .00000     .00000          3    
+Entity 3.OtherTime                          .00000     (Insuf)    .00000     .00000          3    
+Entity 3.TotalTime                          26.065     (Insuf)    .77189     53.703          3    
+Entity 4.VATime                             11.353     (Insuf)    11.353     11.353          1    
+Entity 4.NVATime                            .00000     (Insuf)    .00000     .00000          1    
+Entity 4.WaitTime                           62.366     (Insuf)    62.366     62.366          1    
+Entity 4.TranTime                           .00000     (Insuf)    .00000     .00000          1    
+Entity 4.OtherTime                          .00000     (Insuf)    .00000     .00000          1    
+Entity 4.TotalTime                          73.720     (Insuf)    73.720     73.720          1    
+Entity 5.VATime                             15.118     (Insuf)    15.118     15.118          1    
+Entity 5.NVATime                            .00000     (Insuf)    .00000     .00000          1    
+Entity 5.WaitTime                           68.601     (Insuf)    68.601     68.601          1    
+Entity 5.TranTime                           .00000     (Insuf)    .00000     .00000          1    
+Entity 5.OtherTime                          .00000     (Insuf)    .00000     .00000          1    
+Entity 5.TotalTime                          83.720     (Insuf)    83.720     83.720          1    
+Filling 1.Queue.WaitingTime                 .05999     (Insuf)    .00000     .18590          4    
+Carton Sealer 2.Queue.WaitingTime           30.316     (Insuf)    9.9506     54.220          4    
+Carton Sealer 1.Queue.WaitingTime           33.139     (Insuf)    .00000     61.046          4    
+Packaging Machine 1.Queue.WaitingTime       3.7746     (Insuf)    .00000     6.6332          4    
+Mixer 2.Queue.WaitingTime                   .32203     (Insuf)    .00000     .75522         11    
+Mixer 1.Queue.WaitingTime                   .46071     (Insuf)    .00000     .92143          2    
+Filling 2.Queue.WaitingTime                 .05646     (Insuf)    .00000     .12653          4    
+Packaging Machine 2.Queue.WaitingTime       5.0077     (Insuf)    3.1638     8.0430          4    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                .56647     (Insuf)    .00000     2.0000     .00000    
+Entity 2.WIP                                1.2956     (Insuf)    .00000     4.0000     .00000    
+Entity 3.WIP                                .93383     (Insuf)    .00000     3.0000     .00000    
+Entity 4.WIP                                .88038     (Insuf)    .00000     1.0000     .00000    
+Entity 5.WIP                                .99980     (Insuf)    .00000     1.0000     .00000    
+Mixing Powder.NumberBusy                    .01701     (Insuf)    .00000     1.0000     .00000    
+Mixing Powder.NumberScheduled               1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Mixing Powder.Utilization                   .01701     (Insuf)    .00000     1.0000     .00000    
+Filling Machine.NumberBusy                  .01592     (Insuf)    .00000     1.0000     .00000    
+Filling Machine.NumberScheduled             1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Filling Machine.Utilization                 .01592     (Insuf)    .00000     1.0000     .00000    
+Packaging machine.NumberBusy                .14822     (Insuf)    .00000     1.0000     .00000    
+Packaging machine.NumberScheduled           1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Packaging machine.Utilization               .14822     (Insuf)    .00000     1.0000     .00000    
+Mixing Creamer 1.NumberBusy                 .03000     (Insuf)    .00000     1.0000     .00000    
+Mixing Creamer 1.NumberScheduled            1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Mixing Creamer 1.Utilization                .03000     (Insuf)    .00000     1.0000     .00000    
+Carton Machine.NumberBusy                   .95537     (Insuf)    .00000     1.0000     .00000    
+Carton Machine.NumberScheduled              1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Carton Machine.Utilization                  .95537     (Insuf)    .00000     1.0000     .00000    
+Filling 1.Queue.NumberInQueue               .00287     (Insuf)    .00000     1.0000     .00000    
+Carton Sealer 2.Queue.NumberInQueue         1.4482     (Insuf)    .00000     4.0000     .00000    
+Carton Sealer 1.Queue.NumberInQueue         1.5830     (Insuf)    .00000     3.0000     .00000    
+Packaging Machine 1.Queue.NumberInQueue     .18031     (Insuf)    .00000     3.0000     .00000    
+Mixer 2.Queue.NumberInQueue                 .04230     (Insuf)    .00000     8.0000     .00000    
+Mixer 1.Queue.NumberInQueue                 .01100     (Insuf)    .00000     1.0000     .00000    
+Filling 2.Queue.NumberInQueue               .00270     (Insuf)    .00000     1.0000     .00000    
+Packaging Machine 2.Queue.NumberInQueue     .23921     (Insuf)    .00000     4.0000     .00000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity 1.NumberIn                           2.0000    
+Entity 1.NumberOut                          2.0000    
+Entity 2.NumberIn                           4.0000    
+Entity 2.NumberOut                          4.0000    
+Entity 3.NumberIn                           3.0000    
+Entity 3.NumberOut                          3.0000    
+Entity 4.NumberIn                           1.0000    
+Entity 4.NumberOut                          1.0000    
+Entity 5.NumberIn                           1.0000    
+Entity 5.NumberOut                          1.0000    
+Mixing Powder.NumberSeized                  11.000    
+Mixing Powder.ScheduledUtilization          .01701    
+Filling Machine.NumberSeized                8.0000    
+Filling Machine.ScheduledUtilization        .01592    
+Packaging machine.NumberSeized              8.0000    
+Packaging machine.ScheduledUtilization      .14822    
+Mixing Creamer 1.NumberSeized               2.0000    
+Mixing Creamer 1.ScheduledUtilization       .03000    
+Carton Machine.NumberSeized                 8.0000    
+Carton Machine.ScheduledUtilization         .95537    
+System.NumberOut                            11.000    
+
+
+Simulation run time: 0.03 minutes.
+Simulation run complete.
